@@ -36,18 +36,11 @@
       "role": 2
     },
     {
-      "id": 6,
-      "nome": "Marcia Silva",
-      "ativo": true,
-      "email": "m@m.com",
-      "role": 2
-    },
-    {
-      "nome": "Jesse",
+      "nome": "Haither",
       "ativo": true,
       "email": "j@j.com",
       "role": 2,
-      "createdAt": "2021-08-17T00:00:00.000Z",
+      "createdAt": "2021-08-18T00:00:00.000Z",
       "id": 7
     },
     {

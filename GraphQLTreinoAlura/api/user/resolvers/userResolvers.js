@@ -26,7 +26,8 @@ const userResolvers = {
         atualizaUser: async (root, novosDados, { dataSources }) =>
         dataSources.usersAPI.atualizaUser(novosDados),
 
-        deletaUser: async (root, { id },  { dataSources }) => dataSources.usersAPI.deletaUser(id)
+        deletaUser: async (root, { id },  { dataSources }) =>
+        dataSources.usersAPI.deletaUser(id)
     }
 }
 
